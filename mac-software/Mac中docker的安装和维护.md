@@ -7,6 +7,7 @@
 ```
 可参考 []()http://www.secist.com/archives/4016.html
 1，首先在mac上安装docker，可直接在网站下载
+
 2，安装完之后，在mac终端中输入
 ```
 docker version      显示 Docker 版本信息
